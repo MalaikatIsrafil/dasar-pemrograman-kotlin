@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b10de34-c9ed-449f-9a05-8ece721aaa50" name="Changes" comment="add bilBulat.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bilDecimal.kt" afterDir="false" />
+    <list default="true" id="8b10de34-c9ed-449f-9a05-8ece721aaa50" name="Changes" comment="add bilDecimal.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lieralKonstan.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.BilDecimalKt">
+  <component name="RunManager" selected="Kotlin.LieralKonstanKt">
     <configuration name="BilBulatKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BilBulatKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -51,6 +51,13 @@
     </configuration>
     <configuration name="BilDecimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BilDecimalKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LieralKonstanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LieralKonstanKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,20 +77,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variabel1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variabel1Kt" />
-      <module name="DasarPemrogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LieralKonstanKt" />
         <item itemvalue="Kotlin.BilDecimalKt" />
         <item itemvalue="Kotlin.BilBulatKt" />
         <item itemvalue="Kotlin.ValVariabelKt" />
         <item itemvalue="Kotlin.VarVariabelKt" />
-        <item itemvalue="Kotlin.Variabel1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725347303763</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add bilDecimal.kt">
+      <created>1725347676363</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725347676363</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -194,6 +201,7 @@
     <MESSAGE value="add varVariabel.kt" />
     <MESSAGE value="add valVariabel.kt" />
     <MESSAGE value="add bilBulat.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add bilBulat.kt" />
+    <MESSAGE value="add bilDecimal.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add bilDecimal.kt" />
   </component>
 </project>
