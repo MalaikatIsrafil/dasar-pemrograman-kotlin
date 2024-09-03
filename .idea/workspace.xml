@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b10de34-c9ed-449f-9a05-8ece721aaa50" name="Changes" comment="add comment.kt" />
+    <list default="true" id="8b10de34-c9ed-449f-9a05-8ece721aaa50" name="Changes" comment="add variabel1.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/varVariabel.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Variabel1Kt">
+  <component name="RunManager" selected="Kotlin.VarVariabelKt">
     <configuration name="CommentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CommentKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -47,8 +49,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LiteralKt" />
+    <configuration name="VarVariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarVariabelKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.VarVariabelKt" />
         <item itemvalue="Kotlin.Variabel1Kt" />
         <item itemvalue="Kotlin.CommentKt" />
         <item itemvalue="Kotlin.WhitespacesKt" />
         <item itemvalue="Kotlin.VariabelKt" />
-        <item itemvalue="Kotlin.LiteralKt" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725345120002</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add variabel1.kt">
+      <created>1725345334987</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725345334987</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -160,6 +169,7 @@
     <MESSAGE value="add whitespaces.kt" />
     <MESSAGE value="add blok.kt" />
     <MESSAGE value="add comment.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add comment.kt" />
+    <MESSAGE value="add variabel1.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add variabel1.kt" />
   </component>
 </project>
