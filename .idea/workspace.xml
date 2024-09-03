@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b10de34-c9ed-449f-9a05-8ece721aaa50" name="Changes" comment="add variabel.kt" />
+    <list default="true" id="8b10de34-c9ed-449f-9a05-8ece721aaa50" name="Changes" comment="add blok.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +39,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.WhitespacesKt">
+  <component name="RunManager" selected="Kotlin.CommentKt">
+    <configuration name="CommentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommentKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LiteralKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -63,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CommentKt" />
         <item itemvalue="Kotlin.WhitespacesKt" />
         <item itemvalue="Kotlin.VariabelKt" />
         <item itemvalue="Kotlin.LiteralKt" />
@@ -106,13 +114,36 @@
       <option name="project" value="LOCAL" />
       <updated>1725344067077</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add variabel.kt">
+      <created>1725344292881</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725344292881</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add whitespaces.kt">
+      <created>1725344467074</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725344467074</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add blok.kt">
+      <created>1725344763976</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725344763976</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project starter" />
     <MESSAGE value="add Literal.kt" />
     <MESSAGE value="add variabel.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add variabel.kt" />
+    <MESSAGE value="add whitespaces.kt" />
+    <MESSAGE value="add blok.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add blok.kt" />
   </component>
 </project>
