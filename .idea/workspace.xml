@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b10de34-c9ed-449f-9a05-8ece721aaa50" name="Changes" comment="add ascii.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boolean.kt" afterDir="false" />
+    <list default="true" id="8b10de34-c9ed-449f-9a05-8ece721aaa50" name="Changes" comment="add boolean.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/elementString.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.BooleanKt">
+  <component name="RunManager" selected="Kotlin.ElementStringKt">
     <configuration name="AsciiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AsciiKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -65,6 +65,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ElementStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ElementStringKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="KonversiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KonversiKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -72,20 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepresentasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RepresentasiKt" />
-      <module name="DasarPemrogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ElementStringKt" />
         <item itemvalue="Kotlin.BooleanKt" />
         <item itemvalue="Kotlin.AsciiKt" />
         <item itemvalue="Kotlin.CharKt" />
         <item itemvalue="Kotlin.KonversiKt" />
-        <item itemvalue="Kotlin.RepresentasiKt" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725625109070</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="add boolean.kt">
+      <created>1725625574221</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1725625574221</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -251,6 +258,7 @@
     <MESSAGE value="add konversi.kt" />
     <MESSAGE value="add char.kt" />
     <MESSAGE value="add ascii.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ascii.kt" />
+    <MESSAGE value="add boolean.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add boolean.kt" />
   </component>
 </project>
