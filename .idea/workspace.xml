@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b10de34-c9ed-449f-9a05-8ece721aaa50" name="Changes" comment="add meleburString.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/rawString.kt" afterDir="false" />
+    <list default="true" id="8b10de34-c9ed-449f-9a05-8ece721aaa50" name="Changes" comment="add rawString2.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/stringTemplate.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.RawString2Kt">
-    <configuration name="BooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BooleanKt" />
-      <module name="DasarPemrogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.StringTemplateKt">
     <configuration name="ElemenStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ElemenStringKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -78,13 +71,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringTemplateKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringTemplateKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StringTemplateKt" />
         <item itemvalue="Kotlin.RawString2Kt" />
         <item itemvalue="Kotlin.RawStringKt" />
         <item itemvalue="Kotlin.MeleburStringKt" />
         <item itemvalue="Kotlin.ElemenStringKt" />
-        <item itemvalue="Kotlin.BooleanKt" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +251,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725626478375</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add rawString.kt">
+      <created>1725626676767</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1725626676767</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add rawString2.kt">
+      <created>1725627041555</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1725627041556</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -274,6 +288,8 @@
     <MESSAGE value="add boolean.kt" />
     <MESSAGE value="add elemenString.kt" />
     <MESSAGE value="add meleburString.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add meleburString.kt" />
+    <MESSAGE value="add rawString.kt" />
+    <MESSAGE value="add rawString2.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add rawString2.kt" />
   </component>
 </project>
