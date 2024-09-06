@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b10de34-c9ed-449f-9a05-8ece721aaa50" name="Changes" comment="add representasi.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/konversi.kt" afterDir="false" />
+    <list default="true" id="8b10de34-c9ed-449f-9a05-8ece721aaa50" name="Changes" comment="add konversi.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/char.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +43,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.KonversiKt">
-    <configuration name="BilDecimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BilDecimalKt" />
+  <component name="RunManager" selected="Kotlin.CharKt">
+    <configuration name="CharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CharKt" />
         <item itemvalue="Kotlin.KonversiKt" />
         <item itemvalue="Kotlin.RepresentasiKt" />
         <item itemvalue="Kotlin.UnderscoreLiteralKt" />
         <item itemvalue="Kotlin.LiteralKonstanKt" />
-        <item itemvalue="Kotlin.BilDecimalKt" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725349722953</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add konversi.kt">
+      <created>1725624072158</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1725624072158</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -227,6 +234,7 @@
     <MESSAGE value="add bilDecimal.kt" />
     <MESSAGE value="add literalKonstan.kt" />
     <MESSAGE value="add representasi.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add representasi.kt" />
+    <MESSAGE value="add konversi.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add konversi.kt" />
   </component>
 </project>
