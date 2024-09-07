@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b10de34-c9ed-449f-9a05-8ece721aaa50" name="Changes" comment="add masukanDkotlin.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/konversiEksplisit.kt" afterDir="false" />
+    <list default="true" id="8b10de34-c9ed-449f-9a05-8ece721aaa50" name="Changes" comment="add konversiEksplisit.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kalkulator.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +42,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.KonversiEksplisitKt">
+  <component name="RunManager" selected="Kotlin.KalkulatorKt">
     <configuration name="CaesarChiperKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CaesarChiperKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KalkulatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KalkulatorKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,13 +71,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PenerapanStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PenerapanStringKt" />
-      <module name="DasarPemrogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SandiMorseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SandiMorseKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KalkulatorKt" />
         <item itemvalue="Kotlin.KonversiEksplisitKt" />
         <item itemvalue="Kotlin.MasukanDkotlinKt" />
         <item itemvalue="Kotlin.SandiMorseKt" />
         <item itemvalue="Kotlin.CaesarChiperKt" />
-        <item itemvalue="Kotlin.PenerapanStringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -307,11 +307,17 @@
       <option name="project" value="LOCAL" />
       <updated>1725710849039</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="add konversiEksplisit.kt">
+      <created>1725711320948</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1725711320948</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add variabel.kt" />
     <MESSAGE value="add whitespaces.kt" />
     <MESSAGE value="add blok.kt" />
     <MESSAGE value="add comment.kt" />
@@ -336,6 +342,7 @@
     <MESSAGE value="add CaesarChiper.kt" />
     <MESSAGE value="add sandiMorse.kt" />
     <MESSAGE value="add masukanDkotlin.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add masukanDkotlin.kt" />
+    <MESSAGE value="add konversiEksplisit.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add konversiEksplisit.kt" />
   </component>
 </project>
