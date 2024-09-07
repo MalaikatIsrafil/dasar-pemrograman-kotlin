@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b10de34-c9ed-449f-9a05-8ece721aaa50" name="Changes" comment="add stringTemplate.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsiAstring.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8b10de34-c9ed-449f-9a05-8ece721aaa50" name="Changes" comment="add fungsiAstring.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/penerapanString.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.FungsiAstringKt">
+  <component name="RunManager" selected="Kotlin.PenerapanStringKt">
     <configuration name="FungsiAstringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FungsiAstringKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -51,8 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MeleburStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MeleburStringKt" />
+    <configuration name="PenerapanStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PenerapanStringKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PenerapanStringKt" />
         <item itemvalue="Kotlin.FungsiAstringKt" />
         <item itemvalue="Kotlin.StringTemplateKt" />
         <item itemvalue="Kotlin.RawString2Kt" />
         <item itemvalue="Kotlin.RawStringKt" />
-        <item itemvalue="Kotlin.MeleburStringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725627404654</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="add fungsiAstring.kt">
+      <created>1725701696603</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1725701696603</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -299,6 +305,7 @@
     <MESSAGE value="add rawString.kt" />
     <MESSAGE value="add rawString2.kt" />
     <MESSAGE value="add stringTemplate.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add stringTemplate.kt" />
+    <MESSAGE value="add fungsiAstring.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add fungsiAstring.kt" />
   </component>
 </project>
