@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b10de34-c9ed-449f-9a05-8ece721aaa50" name="Changes" comment="add CaesarChiper.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sandiMorse.kt" afterDir="false" />
+    <list default="true" id="8b10de34-c9ed-449f-9a05-8ece721aaa50" name="Changes" comment="add sandiMorse.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/masukanDkotlin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.SandiMorseKt">
+  <component name="RunManager" selected="Kotlin.MasukanDkotlinKt">
     <configuration name="CaesarChiperKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CaesarChiperKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -53,6 +53,13 @@
     </configuration>
     <configuration name="FungsiAstringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FungsiAstringKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MasukanDkotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MasukanDkotlinKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,20 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTemplateKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringTemplateKt" />
-      <module name="DasarPemrogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MasukanDkotlinKt" />
         <item itemvalue="Kotlin.SandiMorseKt" />
         <item itemvalue="Kotlin.CaesarChiperKt" />
         <item itemvalue="Kotlin.PenerapanStringKt" />
         <item itemvalue="Kotlin.FungsiAstringKt" />
-        <item itemvalue="Kotlin.StringTemplateKt" />
       </list>
     </recent_temporary>
   </component>
@@ -294,11 +294,17 @@
       <option name="project" value="LOCAL" />
       <updated>1725702859079</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="add sandiMorse.kt">
+      <created>1725704256658</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1725704256658</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="project starter" />
     <MESSAGE value="add Literal.kt" />
     <MESSAGE value="add variabel.kt" />
     <MESSAGE value="add whitespaces.kt" />
@@ -323,6 +329,7 @@
     <MESSAGE value="add fungsiAstring.kt" />
     <MESSAGE value="add penerapanString.kt" />
     <MESSAGE value="add CaesarChiper.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add CaesarChiper.kt" />
+    <MESSAGE value="add sandiMorse.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add sandiMorse.kt" />
   </component>
 </project>
